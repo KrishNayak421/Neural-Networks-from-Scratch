@@ -229,7 +229,7 @@ This project demonstrates:
 - **Modular code organization and software engineering practices**
 - Building reusable components for machine learning
 
-## Future Enhancements
+## Future Enhancements (Upcoming)
 
 - [ ] Backward propagation implementation
 - [ ] Gradient descent optimization
