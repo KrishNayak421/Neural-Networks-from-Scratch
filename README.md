@@ -5,12 +5,12 @@ A comprehensive implementation of neural networks built from scratch using NumPy
 ## References:
 
 videos : 
-neural networks : https://youtu.be/Wo5dMEP_BbI?si=cgtnFPskOVnqrqtQ 
-back propogation : https://youtu.be/SmZmBKc7Lrs?si=ru9ffLOAWk2rWZ6o 
+- neural networks : https://youtu.be/Wo5dMEP_BbI?si=cgtnFPskOVnqrqtQ
+- back propogation : https://youtu.be/SmZmBKc7Lrs?si=ru9ffLOAWk2rWZ6o 
 
 texts:
-https://cs231n.github.io/optimization-2/#staged 
-https://pyimagesearch.com/2021/05/06/backpropagation-from-scratch-with-python/
+- https://cs231n.github.io/optimization-2/#staged 
+- https://pyimagesearch.com/2021/05/06/backpropagation-from-scratch-with-python/
 
 ## Overview
 
